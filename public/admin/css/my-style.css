@@ -1,0 +1,72 @@
+.btn-add{width: 85px; margin: 10px 0;}
+.review-img img{width: 100%}
+.title-form{
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+.btn-del{    
+	border: none!important;
+    background: none!important;
+}
+.center{text-align: center;}
+.form-check-input:checked{
+	background-color: #2ecc71!important;
+	border-color:#2ecc71!important;
+}
+.form-switch .form-check-input{
+    width: 2.5em!important;
+    height: 1.3em!important;
+}
+tbody, td, tfoot, th, thead, tr{
+    border-color: #95a5a6 !important;
+}
+.w-100px{min-width: 100px;}
+.w-300px{min-width: 200px;}
+.w-200px{min-width: 150px;}
+.w-500px{min-width: 300px;}
+.min-with-400{min-width: 400px;}
+.min-with-200{min-width: 200px;}
+.center img{object-fit: cover;}
+.mess-error{
+    color: #f00 !important;
+}
+.mess-success{
+    color: #4cd137 !important;
+}
+.paginate-styling{
+    padding: 20px 10px;
+    display: flex;
+    justify-content: flex-end;
+}
+.paginate-styling nav .flex{
+    display: none!important;
+}
+.paginate-styling svg{
+    width: 20px !important;
+}
+.card-header{
+}
+.alert{
+    padding: 15px;
+}
+.tab-profile{
+    max-width: 150px;
+    margin-right: 10px;
+}
+.box-tab-profile{
+}
+.table-responsive{
+display: inline;
+}
+.tag-role{
+    padding: 2px;
+    font-size: 10px;
+    margin: 1px;
+}
+.btn__min__width{
+  min-width: 105px;
+}
+.box-filter{
+    align-items: center;
+}
